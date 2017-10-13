@@ -10,7 +10,8 @@ namespace ExemploLiveDemo
     {
         static void Main(string[] args)
         {
-            Console.ReadKey();
+            Console.WriteLine("Exemplo de utilização do GitHub");
+            Console.ReadKey(); ;
         }
     }
 }
